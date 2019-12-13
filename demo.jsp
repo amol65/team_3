@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>MASTER JSP</h1>
+<h1>MASTER JSP2</h1>
 </body>
 </html>
